@@ -1,5 +1,6 @@
 const NotesHandler = require('./handler');
 const routes = require('./routes');
+const { NotePayloadSchema } = require('../../validator/notes/schema');
  
 module.exports = {
   name: 'notes',

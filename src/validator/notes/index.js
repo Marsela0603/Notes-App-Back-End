@@ -10,4 +10,4 @@ const NotesValidator = {
   },
 };
  
-module.exports = {NotesValidator};
+module.exports = NotesValidator;
